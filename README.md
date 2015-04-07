@@ -1,4 +1,4 @@
-.line 189
+    .line 189
     .local v3, "locale":Ljava/util/Locale;
     if-eqz v4, :cond_0
 
